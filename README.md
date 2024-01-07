@@ -35,5 +35,9 @@ flutter run
 - [ ] Pantalla de favoritos
 
 ## Capturas de pantalla
+
+
+<div style="display: flex; gap:20px;">
 <img  src="./screenshots/Screenshot_1704655193.png" width="240" />
 <img  src="./screenshots/Screenshot_1704655221.png" width="240" />
+</div>
